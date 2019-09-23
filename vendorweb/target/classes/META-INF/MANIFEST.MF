@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: aakash
+Build-Jdk: 10.0.2
+Implementation-Title: vendorweb
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.bharath.vendor
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://projects.spring.io/spring-boot/vendorweb/
+Created-By: Maven Integration for Eclipse
+
